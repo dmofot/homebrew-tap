@@ -1,9 +1,9 @@
 class Iterm2Images < Formula
   desc "Inline images for iTerm2"
   homepage "http://iterm2.com/documentation-images.html"
-  url "https://github.com/dmofot/iterm2-images/archive/2.0.0.tar.gz"
-  version "2.0.0"
-  sha256 "09d346eba826782ea5152a2785b49f6cddf86ab757e29c0a2b9c0c83bca9ce10"
+  url "https://github.com/dmofot/iterm2-images/archive/2.0.1.tar.gz"
+  version "2.0.1"
+  sha256 "2afe6c13a61749253046cb985878b10ab77d16e0255ed9056547c83b2de75f44"
 
   def install
     bin.install "imgcat"
