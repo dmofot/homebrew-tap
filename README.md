@@ -1,5 +1,5 @@
 # homebrew-tap
-Homebrew package manager iTerm2 image formulas for displaying or listing images inline.
+Homebrew package manager for iTerm2 image formulas used for displaying or listing images inline.
 
 ## Installation
 Easiest way is to install the formula directly using:
